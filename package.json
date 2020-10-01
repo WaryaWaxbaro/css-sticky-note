@@ -1,0 +1,23 @@
+{
+  "name": "css-modern-landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaryaWaxbaro/css-modern-landingpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaryaWaxbaro/css-modern-landingpage/issues"
+  },
+  "homepage": "https://github.com/WaryaWaxbaro/css-modern-landingpage#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
